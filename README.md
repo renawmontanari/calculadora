@@ -1,1 +1,3 @@
-# calculadora
+# Calculadora
+
+## Calculadora desenvolvida em C++
